@@ -59,7 +59,7 @@ task.spawn(function()
     ownerLabel.TextColor3 = Color3.fromRGB(0, 255, 0)
     ownerLabel.Font = Enum.Font.SourceSansBold
     ownerLabel.TextSize = 26
-    ownerLabel.Text = "⚡ Cica FPS BOOSTER ⚡"
+    ownerLabel.Text = "⚡ Cica ⚡"
     ownerLabel.TextStrokeTransparency = 0.5
     ownerLabel.ZIndex = 999999
     ownerLabel.Parent = gui
